@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @DaveatCor
-- 👀 I’m interested in technology, coding, designing, tech agriculture, etc.
-- 🌱 I’m currently learning designing & flutter mobile developement.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me condaveat@gmail.com
+Hello, I'm @DaveatCor a Mobile Developer (Flutter). I have
+been working as a Flutter developer for the past 4 years+, and I have a strong track record of
+success in developing and delivering high-quality mobile apps.
 
-<!---
-DaveatCor/DaveatCor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- I’m interested in technology, coding, designing, tech agriculture, etc.
